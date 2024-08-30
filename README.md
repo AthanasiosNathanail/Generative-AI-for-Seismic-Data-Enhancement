@@ -33,6 +33,10 @@ This paper presenting all this work is currently submited and under review.
 # Useful links
 
 Please find the link to the Icthys dataset: https://terranubis.com/datainfo/FORCE-ML-Competition-2020
+
+Please find the link to the synthetic Image Generation model's weights: https://drive.google.com/drive/folders/1_4ZzZh_CZpiGEagKtrcg8-KYRbaA7V_3
+
 Please find the link to the Image Enhancement model's weights: https://www.dropbox.com/scl/fi/gy17d5tq2z7ziaeguh3fz/general_full_seismic.ckpt?rlkey=k6vrga22cdz356nwlyb73mgix&st=1t57pa2b&dl=0
+
 
 
