@@ -1,0 +1,7 @@
+Please find the link to the dataset below. 
+
+https://terranubis.com/datainfo/FORCE-ML-Competition-2020
+
+The file was too large to upload on Github, but this link should allow access and the ability to download the file. 
+
+Once you download the file, please ensure it is named "Ichthys 3D seismic for fault competition.segy".
