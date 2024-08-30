@@ -1,0 +1,5 @@
+Please find the link to the model's weights below. 
+
+https://www.dropbox.com/scl/fi/gy17d5tq2z7ziaeguh3fz/general_full_seismic.ckpt?rlkey=k6vrga22cdz356nwlyb73mgix&st=1t57pa2b&dl=0
+
+The files were too large to upload on Github, so they were uploaded to a Dropbox folder. This should allow access and the ability to download the files. 
