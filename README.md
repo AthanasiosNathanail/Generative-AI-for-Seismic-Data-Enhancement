@@ -1,5 +1,5 @@
 # Generative AI for Seismic Data Enhancement
- A novel workflow for fine-tuning Stable Diffusion Models for domain specific applications
+ A novel workflow for fine-tuning Stable Diffusion Models for domain-specific applications
 
 # Overview
 This research explores the use of generative AI, specifically the state-of-the-art Stable Diffusion model, to generate and enhance 2D images of seismic amplitude maps. Seismic imaging plays a vital role in geosciences, particularly for evaluating subsurface structures and assessing the potential for carbon capture and storage (CCS). However, obtaining high-resolution seismic data is often expensive and logistically challenging, especially in regions where data is scarce or unavailable.
@@ -28,7 +28,7 @@ Model Training: The synthetic image dataset is used to train and fine-tune a pre
 
 Resolution Enhancement: In the final step, a second Stable Diffusion model is trained and fine-tuned using the previously generated synthetic amplitude maps. This model focuses on learning to enhance the resolution of seismic images, thereby improving the clarity and detail of the generated amplitude maps.
 
-This paper presenting all this work is currently submited and under review.
+# The paper presenting all this work is currently submitted and under review.
 
 # Useful links
 
