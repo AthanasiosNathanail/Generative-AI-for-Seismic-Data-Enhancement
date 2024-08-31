@@ -28,7 +28,10 @@ Model Training: The synthetic image dataset is used to train and fine-tune a pre
 
 Resolution Enhancement: In the final step, a second Stable Diffusion model is trained and fine-tuned using the previously generated synthetic amplitude maps. This model focuses on learning to enhance the resolution of seismic images, thereby improving the clarity and detail of the generated amplitude maps.
 
-# The paper presenting all this work is currently submitted and under review.
+The paper presenting all this work is currently submitted and under review.
+
+# Acknowledgments: 
+We would like to thank the original authors and developers of the code for the Stable Diffusion models presented in this work and the Department of Energy for their support and for funding part of this work.
 
 # Useful links
 
@@ -38,5 +41,8 @@ Please find the link to the synthetic Image Generation model's weights: https://
 
 Please find the link to the Image Enhancement model's weights: https://www.dropbox.com/scl/fi/gy17d5tq2z7ziaeguh3fz/general_full_seismic.ckpt?rlkey=k6vrga22cdz356nwlyb73mgix&st=1t57pa2b&dl=0
 
-
+# References
+1.	Rombach, R.; Blattmann, A.; Lorenz, D.; Esser, P.; Ommer, B. High-Resolution Image Synthesis with Latent Diffusion Models. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022, 10684–10695.
+2.	31.	Lin, X.; He, J.; Chen, Z.; Lyu, Z.; Fei, B.; Dai, B.; Ouyang, W.; Qiao, Y.; Dong, C. DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior. ArXiv 2023. Available online: https://arxiv.org/abs/2308.15070 (accessed on 28 August 2024).
+3.	TerraNubis. FORCE ML Competition 2020. TerraNubis 2020. Available online: https://terranubis.com/datainfo/FORCE-ML-Competition-2020 (accessed on 28 August 2024).
 
