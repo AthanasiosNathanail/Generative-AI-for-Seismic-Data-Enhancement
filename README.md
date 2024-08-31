@@ -30,7 +30,7 @@ Resolution Enhancement: In the final step, a second Stable Diffusion model is tr
 
 The paper presenting all this work is currently submitted and under review.
 
-# Acknowledgments: 
+# Acknowledgments
 We would like to thank the original authors and developers of the code for the Stable Diffusion models presented in this work and the Department of Energy for their support and for funding part of this work.
 
 # Useful links
